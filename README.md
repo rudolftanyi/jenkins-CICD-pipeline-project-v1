@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Jenkins CI/CD Pipeline Project Architecture (Java Web Application)
 ![CompleteCICDProject!](https://lucid.app/publicSegments/view/a6ef3233-7dda-483a-a662-d8ec90395ba3/image.png)
 
@@ -184,3 +185,6 @@
     - Install all plugings without restart 
 
 18) Confirm and make test your installations/setups  
+=======
+# jenkins-CICD-pipeline-project-v1
+>>>>>>> 1ea6866a5d428af58e8d165a34ebf6a3b8f59313
